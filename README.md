@@ -1,5 +1,6 @@
 ## Hi, I'm Gibson 👋
 
+I am a student learning Computer Programming and am interested in expanding my knowledge of the field. I am also versed in Cybersecurity and plan on continuing to learn about it in the future.
 <!--
 **GibsonM2027/GibsonM2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

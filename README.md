@@ -1,17 +1,15 @@
-## Hi, I'm Gibson 👋
+# Hi, I'm Gibson 👋
 
-I am a student learning Computer Programming and am interested in expanding my knowledge of the field. I am also versed in Cybersecurity and plan on continuing to learn about it in the future.
-<!--
-**GibsonM2027/GibsonM2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a student learning Computer Programming and am interested in expanding my knowledge of the field. I am also versed in Cybersecurity and plan on continuing to learn about it in the future.**
+In my time I enjoy Music, Graphic Design, and being Creative
 
-Here are some ideas to get you started:
+## Skills / What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Skills in Cybersecurity through certifications (Security Pro, IC3, Certiport Device Config, and Certiport Cybersecurity)
+* I am working on learning how to use Github for programming
+* I am working on learning programming in Java
+
+## Learning Goals
+
+1. Become competent with Java programming
+2. Become competent with using Github for programming

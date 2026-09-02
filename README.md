@@ -1,6 +1,7 @@
 # Hi, I'm Gibson 👋
 
 ***I am a student learning Computer Programming and am interested in expanding my knowledge of the field. I am also versed in Cybersecurity and plan on continuing to learn about it in the future.***
+
 In my time I enjoy Music, Graphic Design, and being Creative
 
 ## Skills / What I'm working on
